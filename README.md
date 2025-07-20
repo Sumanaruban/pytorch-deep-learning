@@ -11,3 +11,14 @@ This repository provides a comprehensive guide and exercises on the practical as
 7. [04_cnn_concepts.ipynb](./04_cnn_concepts.ipynb) - This notebook will cover the fundamental concepts that underpin CNNs, including convolution operations, padding, stride, feature maps, and filters. By understanding these basics, students will be well-equipped to delve into more complex topics and applications of CNNs.
 8. [04_cnn_mnist.ipynb](./04_cnn_mnist.ipynb) - In this notebook, we will walk through the process of building, training, and evaluating a Convolutional Neural Network (CNN) for classifying handwritten digits from the MNIST dataset using PyTorch. We'll cover data loading and preprocessing, model definition, training, evaluation, and visualization of the results.
 9. [04_cnn_cifar_10.ipynb](./04_cnn_cifar_10.ipynb) - This notebook demonstrates how to build a Convolutional Neural Network (CNN) using PyTorch to classify images from the CIFAR-10 dataset.
+
+
+
+# To visualize the Neural Networks, you will need to install Graphviz.
+
+- Go to the official Graphviz download page:
+👉 https://graphviz.org/download/
+
+- Download and install the Windows (stable release) .exe installer.
+
+- Add Graphviz to PATH (if not added automatically)
