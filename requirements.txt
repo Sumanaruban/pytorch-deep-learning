@@ -1,0 +1,16 @@
+
+# pytorch
+# Installed PyTorch from the PyTorch website. It will analyze your laptop and provide you the right version along with the PIP command.
+# Website - https://pytorch.org/
+# Below is an example command that the website generated.
+# e.g., pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# To visualize the Neural Networks, you will need to install Graphviz.
+# Check README.md
+
+scikit-learn
+matplotlib
+pandas
+seaborn
+torchviz
+torchsummary
